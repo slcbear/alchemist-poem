@@ -60,4 +60,3 @@ And at the next excursion,
     We set at once to chanting,  
 To implore aversion of our Bane  
     (Or beseech our Boons' swift granting).  
-    
