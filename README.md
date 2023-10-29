@@ -3,18 +3,18 @@ I dreamt that we were alchemists,
 By turning ten threepenny nails  
     Into three ten-cent screws.  
 
-We change niobium to zinc,  
+We changed niobium to zinc,  
     And nickel into tin,  
-And when we've had enough of that,  
-    We change them back again.  
+And when we had enough of that,  
+    We changed them back again.  
 
-We take the tin and wrap it up  
+We took some tin and wrapped it up  
     In sodium and silk,  
 Some manganese, the wax of bees,  
     Molybdenum and milk.  
 
-This package then we bury,  
-    And perform a secret rite  
+This package then we buried,  
+    And performed a secret rite  
 Underneath a waning moon,  
     At a crossroads late at night.  
 
@@ -23,33 +23,41 @@ According to instructions
 Beneath the granite mantelpiece  
     In the fireplace at home,  
 
-If we want the working to conclude  
+<blockquote>
+
+"A successful working will conclude  
     In the space of thirty days,  
-We must bang a kettle drum each night  
-    And chant a Latin phrase.  
+If you bang a kettle drum and chant  
+    This doleful German phrase:  
 
-And furthermore, we must beseech  
-    In supplicatory tones  
-The Genius of the crossroads  
-    By rattling chicken bones,  
+*Sind niemand unter der Sonne;*  
+*Wir sind jemand hinter dem Mond.*  
 
-And asking her to grant us Boons  
-    Or else avert us Banes  
-All this we do beneath the moon  
-    While its pallid light still wanes.  
+And furthermore, you must appease,  
+    In supplicatory tones,  
+The Genius of the crossroads,  
+    Using dried-up chicken bones,  
 
-Then, meeting at the crossroads  
-    When the moon no longer shines,  
-With apple branches, on the ground,  
-    We trace out arcs and lines.  
-    
-This task we do in darkness,  
+Beseeching her to grant a Boon  
+    (Or else avert a Bane);  
+These things must ye, beneath the Moon,  
+    Do while its pallid light doth wane.  
+
+And on a dark, subsequent night,  
+    When the moon has ceased to shine,  
+With Elder branches, on the ground,  
+    Trace out these arcane arcs and lines:"
+
+</blockquote>
+<svg src="./arcsandlines.svg">
+
+These tasks we did resolve to do,  
     Despite our sense of terror  
 That the Genius, a perfectionist,  
-    Will tolerate no error.  
+    Would tolerate no error.  
 
-And at the next crossroads excursion,  
+And at the next excursion,  
     We set at once to chanting,  
-To implore our Banes' aversion  
-    Or beseech our Boons' swift granting.  
+To implore aversion of our Bane  
+    (Or beseech our Boons' swift granting).  
     
